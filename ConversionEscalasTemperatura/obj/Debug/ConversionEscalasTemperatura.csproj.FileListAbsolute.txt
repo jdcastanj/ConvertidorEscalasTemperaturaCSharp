@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\bin\Debug\ConversionEscalasTemperatura.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\bin\Debug\ConversionEscalasTemperatura.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\bin\Debug\ConversionEscalasTemperatura.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\ConversionEscalasTemperatura\ConversionEscalasTemperatura\obj\Debug\ConversionEscalasTemperatura.pdb
